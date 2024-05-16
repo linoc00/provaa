@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Maps&display=swap');
+
+h1{
+    font-family: 'Rubik Maps';
+}
+div{
+    height: 400px;
+    width: 100%;
+    border: 1px solid black;
+}
